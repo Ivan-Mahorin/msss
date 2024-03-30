@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" modified="2024-03-12T12:09:20.315Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="4FVd-i5rzc4bhpfVTr8N" version="24.0.5" type="device">
+  <diagram name="Страница — 1" id="hkn43C2hHXiVWJsXLN0N">
+    <mxGraphModel dx="1179" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="an5Z5J0pkEpVs_l8PtT2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;startArrow=cross;startFill=0;" parent="1" source="eKhRr3B1XAOLILvqetzO-1" target="an5Z5J0pkEpVs_l8PtT2-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="65" y="185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="an5Z5J0pkEpVs_l8PtT2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;startArrow=cross;startFill=0;" parent="1" source="eKhRr3B1XAOLILvqetzO-1" target="an5Z5J0pkEpVs_l8PtT2-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="an5Z5J0pkEpVs_l8PtT2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=open;endFill=0;startArrow=cross;startFill=0;" parent="1" source="eKhRr3B1XAOLILvqetzO-1" target="an5Z5J0pkEpVs_l8PtT2-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eKhRr3B1XAOLILvqetzO-1" value="Клиент/Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="an5Z5J0pkEpVs_l8PtT2-3" value="Заключить договор/To conclude a contract" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="152.5" y="150" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="an5Z5J0pkEpVs_l8PtT2-6" value="Консультироваться/To consult" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="147.5" y="250" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="an5Z5J0pkEpVs_l8PtT2-7" value="Расторжение договора/Termination of the contract" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="147.5" y="350" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="an5Z5J0pkEpVs_l8PtT2-8" value="Уведомить об окончании срока полиса/Notify about the expiration of the policy" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="460" width="175" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="an5Z5J0pkEpVs_l8PtT2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;startArrow=cross;startFill=0;" parent="1" source="an5Z5J0pkEpVs_l8PtT2-9" target="an5Z5J0pkEpVs_l8PtT2-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="an5Z5J0pkEpVs_l8PtT2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;startArrow=cross;startFill=0;" parent="1" source="an5Z5J0pkEpVs_l8PtT2-9" target="an5Z5J0pkEpVs_l8PtT2-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="an5Z5J0pkEpVs_l8PtT2-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;startArrow=cross;startFill=0;" parent="1" source="an5Z5J0pkEpVs_l8PtT2-9" target="an5Z5J0pkEpVs_l8PtT2-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="an5Z5J0pkEpVs_l8PtT2-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;startArrow=cross;startFill=0;" parent="1" source="an5Z5J0pkEpVs_l8PtT2-9" target="an5Z5J0pkEpVs_l8PtT2-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="an5Z5J0pkEpVs_l8PtT2-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;startArrow=cross;startFill=0;" parent="1" source="an5Z5J0pkEpVs_l8PtT2-9" target="an5Z5J0pkEpVs_l8PtT2-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="an5Z5J0pkEpVs_l8PtT2-9" value="Страховой агент/Insurance Agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="420" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="an5Z5J0pkEpVs_l8PtT2-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;startArrow=cross;startFill=0;" parent="1" source="an5Z5J0pkEpVs_l8PtT2-10" target="an5Z5J0pkEpVs_l8PtT2-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="an5Z5J0pkEpVs_l8PtT2-10" value="Создание нового клиента/Creating a new client" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="20" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="an5Z5J0pkEpVs_l8PtT2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;startArrow=cross;startFill=0;" parent="1" source="an5Z5J0pkEpVs_l8PtT2-6" target="an5Z5J0pkEpVs_l8PtT2-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="an5Z5J0pkEpVs_l8PtT2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;startArrow=cross;startFill=0;" parent="1" source="an5Z5J0pkEpVs_l8PtT2-7" target="an5Z5J0pkEpVs_l8PtT2-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="an5Z5J0pkEpVs_l8PtT2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;startArrow=cross;startFill=0;" parent="1" target="eKhRr3B1XAOLILvqetzO-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="500" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="an5Z5J0pkEpVs_l8PtT2-20" value="Редактирование данных/Editing data" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="830" y="20" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="an5Z5J0pkEpVs_l8PtT2-27" value="Поиск по данным клиента/Search by customer data" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="655" y="190" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="an5Z5J0pkEpVs_l8PtT2-30" value="Удаление данных о клиенте/Deleting customer data" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="880" y="318" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="an5Z5J0pkEpVs_l8PtT2-36" value="Проверка данных/Checking the data" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="470" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xUSI75NobUj2ttY7h-Lc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=cross;startFill=0;" parent="1" source="an5Z5J0pkEpVs_l8PtT2-3" target="an5Z5J0pkEpVs_l8PtT2-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
